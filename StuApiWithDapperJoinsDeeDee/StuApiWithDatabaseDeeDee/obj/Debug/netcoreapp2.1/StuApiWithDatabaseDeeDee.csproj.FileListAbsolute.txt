@@ -1,0 +1,14 @@
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/bin/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.deps.json
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/bin/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.runtimeconfig.json
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/bin/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.runtimeconfig.dev.json
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/bin/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.dll
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/bin/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.pdb
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.csprojAssemblyReference.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.csproj.CoreCompileInputs.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.RazorAssemblyInfo.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.RazorAssemblyInfo.cs
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.AssemblyInfoInputs.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.AssemblyInfo.cs
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.RazorTargetAssemblyInfo.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.dll
+/Users/DeeDee/Programming/Visual Studio Projects/StuApiWithDatabaseDeeDee/StuApiWithDatabaseDeeDee/obj/Debug/netcoreapp2.1/StuApiWithDatabaseDeeDee.pdb
